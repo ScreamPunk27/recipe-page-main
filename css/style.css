@@ -57,6 +57,7 @@ li::marker{
 
 #recipe{
     background-color: var(--white);
+    margin-bottom: 1rem;
 }
 
 .recipe__img{
